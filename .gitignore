@@ -8,3 +8,5 @@ caddy.env
 *.env
 .env
 caddy
+.jekyll-cache
+.bundle
