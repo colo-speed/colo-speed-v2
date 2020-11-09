@@ -10,3 +10,4 @@ caddy.env
 caddy
 .jekyll-cache
 .bundle
+docker-compose.yml
