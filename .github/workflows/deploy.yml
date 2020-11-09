@@ -20,4 +20,5 @@ jobs:
             cd /home/colospeed/colospeed/colospeed-jekyll
             git checkout master
             git pull
-            docker-compose up -d
+            cd /home/colospeed/colospeed
+            docker-compose up -d jekyll
