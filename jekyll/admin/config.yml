@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: not-dalia/colo-speed-v2
+  repo: colo-speed/colo-speed-jekyll
   branch: master
   site_domain: colospeed.uk
   # site_domain: cms.netlify.com
