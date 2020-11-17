@@ -89,7 +89,7 @@ var api = {
   register: function (data, callback) {
     $.ajax({
       type: "POST",
-      url: "https://api.thisisan.app/users/register",
+      url: "https://api.colospeed.uk/users/register",
       // url: "http://localhost:3000//users/register",
       data: JSON.stringify(data),
       contentType: "application/json; charset=utf-8",
@@ -105,7 +105,7 @@ var api = {
   contact: function (data, callback) {
     $.ajax({
       type: "POST",
-      url: "https://api.thisisan.app/contact",
+      url: "https://api.colospeed.uk/contact",
       // url: "http://localhost:3000//contact",
       data: JSON.stringify(data),
       contentType: "application/json; charset=utf-8",

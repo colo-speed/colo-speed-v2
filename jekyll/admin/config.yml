@@ -2,7 +2,7 @@ backend:
   name: github
   repo: not-dalia/colo-speed-v2
   branch: master
-  site_domain: thisisan.app
+  site_domain: colospeed.uk
   # site_domain: cms.netlify.com
 
 publish_mode: editorial_workflow
