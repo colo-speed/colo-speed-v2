@@ -27,8 +27,8 @@ openedsites:
   - Bolton NHS Foundation Trust
   - South Tees Hospitals NHS Foundation Trust
   - West Hertfordshire Hospitals NHS Trust
-openingsites:
   - Northumbria Healthcare NHS Foundation Trust
+openingsites:
   - Hull University Teaching Hospitals NHS Foundation Trust
   - Gloucestershire Hospitals NHS Foundation Trust
 openingsitestitle: Opening sites
