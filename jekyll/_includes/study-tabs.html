@@ -1,4 +1,4 @@
-<div class="section section-2 gibson-book">
+<div class="section section-2 gibson-book" id="study-tabs-section">
   <div class="study-details">
     <div class="study-tabs">
       <ul class="cs-tabs tabs">
@@ -287,6 +287,12 @@
   for(var i = 0; i < tabs.length; i++) {
     tabs[i].onclick = function () {
       toggleSelectedTab(this.getAttribute("data-tab-content"));
+    }
+  }
+  var registerInterestButton = document.getElementById('register-interest-button');
+  if (registerInterestButton) {
+    registerInterestButton.onclick = function () {
+      toggleSelectedTab('register');
     }
   }
   // handleResize();
