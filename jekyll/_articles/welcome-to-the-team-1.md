@@ -14,7 +14,7 @@ COLO-DETECT is a clinical trial assessing the role of artificial intelligence in
 
 Mr Seager has taken time out from his clinical training in the East of England to join the COLO-SPEED network and will undertake a PhD with Newcastle University.
 
-He explains why he has come to work with the COLO-SPEED network.
+He explains why he has come to work with the COLO-SPEED network:
 
 “I first heard about the work of Professor Rees and the COLO-SPEED network at a surgical trainees’ conference from one of the previous team members, Lena Ngu. The team’s extensive track record of high quality research studies, their reputation for being extremely supportive and inclusive, and the large number of research fellows who have successfully completed a higher degree whilst with the team, all mean that I am delighted to take up this role, and I look forward to delivering an excellent research study together.”
 
