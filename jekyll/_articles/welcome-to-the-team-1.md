@@ -2,7 +2,7 @@
 layout: article
 title: Welcome to the team!
 date: 2020-12-23T16:09:30.719Z
-image: /jekyll/assets/images/uploads/alex-seager2.png.jpg
+image: /assets/images/uploads/alex-seager2.png.jpg
 featured: false
 type: news
 audience: everyone
