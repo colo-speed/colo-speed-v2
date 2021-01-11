@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Welcome to the team!
+subtitle: ""
 date: 2020-12-21T10:08:01.264Z
 image: /assets/images/uploads/alex-seager.png
 featured: false
