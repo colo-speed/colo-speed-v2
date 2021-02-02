@@ -28,7 +28,6 @@ openedsites:
   - South Tees Hospitals NHS Foundation Trust
   - West Hertfordshire Hospitals NHS Trust
   - Northumbria Healthcare NHS Foundation Trust
-  - Hull University Teaching Hospitals NHS Foundation Trust
   - Gloucestershire Hospitals NHS Foundation Trust
 openingsites:
   - Hull University Teaching Hospitals NHS Foundation Trust
