@@ -98,8 +98,10 @@
 }
 
 #main-content .section-1 .news-media .main-col .subtitle {
-  font-size: 1.3rem;
+  font-size: 1rem;
   font-weight: 500;
+  margin: 10px 0;
+  line-height: 1.6rem;
 }
 
 #main-content .section-1 .news-media .main-col .date {
