@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Major milestone for COLO-DETECT!
-subtitle: COLO-DETECT has received NHS Health Research Authority (HRA) and NHS
-  research ethics committee (REC) approval.
+subtitle: The COLO-DETECT study has received NHS Health Research Authority (HRA)
+  and NHS research ethics committee (REC) approval.
 date: 2021-02-04T09:42:08.715Z
 image: /assets/images/uploads/approved-01.png
 featured: false
