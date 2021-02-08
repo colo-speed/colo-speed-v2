@@ -1,10 +1,12 @@
 ---
 layout: article
-title: "COLO-DETECT Milestone: Approvals"
-subtitle: COLO-DETECT has reached a major milestone in the form of important NHS
+title: COLO-DETECT has reached a major milestone in the form of important NHS
   Health Research Authority (HRA) and NHS Research Ethics Committee (REC)
   approvals
+subtitle: ""
 date: 2021-02-08T13:06:19.809Z
+tags:
+  - milestone
 image: /assets/images/uploads/approved-01.png
 featured: false
 type: news
