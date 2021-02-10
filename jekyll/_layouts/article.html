@@ -37,7 +37,7 @@
           {% assign article = page %}
 
           <div class="article">
-            {% if article.image%}
+            {% if article.image != nil and article.image != "" %}
             <div class="left-col col" style="background-image: url('{{ article.image }}');">
             </div>
             {% endif %}
