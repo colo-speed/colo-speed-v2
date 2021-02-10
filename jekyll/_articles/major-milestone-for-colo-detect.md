@@ -7,7 +7,7 @@ subtitle: COLO-DETECT has reached a major milestone in the form of important NHS
 date: 2021-02-08T13:06:19.809Z
 tags:
   - milestone
-image: /assets/images/uploads/approved-01.png
+image: ""
 featured: false
 type: news
 audience: everyone
