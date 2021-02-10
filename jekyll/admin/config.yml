@@ -161,6 +161,7 @@ collections:
       - label: Featured Image
         name: image
         widget: image
+        required: false
       - label: Feature this article
         name: featured
         widget: boolean

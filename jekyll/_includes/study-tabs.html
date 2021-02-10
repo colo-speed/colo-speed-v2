@@ -150,13 +150,16 @@
 
       <div class="cs-tab-content" id="tab-publications">
         <div class="related-articles">
-          {% for article in site.articles %}
+          {% assign articles = site.articles | sort: 'date' | reverse %}
+          {% for article in articles %}
             {% if page.slug == article.study %}
             <div class="related-article" onclick="window.location='{{article.url}}'">
+              {% if article.image%}
               <div class="image-container">
                 <div class="study-image left-col col" style="background-image: url('{{ article.image }}'); cursor: pointer; /*padding: 0; min-width: 340px*/" onclick="window.location='{{article.url}}'">
                 </div>
               </div>
+              {% endif %}
               <div class="right-col col">
                 <div class="date">
                   <span class="lt-blue">
@@ -174,7 +177,9 @@
                 <div class="newstitle">
                   <a href="{{article.url}}" alt="{{article.title}}" title="{{article.title}}">{{ article.title | truncatewords: 20 }}</a>
                 </div>
-                
+                <div class="subtitle">
+                  {{ article.subtitle }}
+                </div>
                 <div class="paragraph">
                   <p>
                     {{ article.content | markdownify | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip | truncatewords: 25 }}

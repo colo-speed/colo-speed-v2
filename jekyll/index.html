@@ -75,10 +75,13 @@ layout: parent
           {% if article.featured == true %}
             <div class="row" onclick="window.location='{{article.url}}'">
               <div class="col paragraph">
+                {% if article.image%}
                 <div class="image-container">
                   <div class="video video-2 study-image" style="background-image: url('{{ article.image }}');">
                   </div>
                 </div>
+                {% endif %}
+
                 <div class="study-container">
                   <div class="subtitle gibson-medium">Featured Article</div>
                   <h3 class="title gibson-medium">

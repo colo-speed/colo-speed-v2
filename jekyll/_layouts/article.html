@@ -37,9 +37,11 @@
           {% assign article = page %}
 
           <div class="article">
+            {% if article.image%}
             <div class="left-col col" style="background-image: url('{{ article.image }}');">
-
             </div>
+            {% endif %}
+
             <div class="right-col col">
               <!-- <img src="{{ article.image }}" class="main-image"> -->
               <div class="info-row">
