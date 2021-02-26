@@ -5,7 +5,7 @@ subtitle: Impact of COVID-19 on Endoscopy
 date: 2020-09-21T07:59:55.229Z
 featured: false
 image: /assets/images/uploads/covid-2.png
-status: In set up
+status: Recruitment active
 sponsor: South Tyneside and Sunderland NHS Foundation Trust
 funder: Guts UK Parabola Foundation grant
 contactperson:
@@ -16,9 +16,9 @@ researchers:
   - Dr Christina Dobson
   - "Professor Linda Sharp "
   - Professor Colin Rees
-openedsites: []
-openingsites:
+openedsites:
   - South Tyneside and Sunderland NHS Foundation Trust
+openingsites:
   - The Newcastle-upon-Tyne NHS Foundation Trust
   - The Royal Wolverhampton NHS Trust
   - King’s College Hospital NHS Foundation Trust
