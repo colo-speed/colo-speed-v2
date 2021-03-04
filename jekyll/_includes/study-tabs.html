@@ -127,7 +127,7 @@
         </ul>
         {% endif %}
 
-        {% if page.openingsites %}
+        {% if page.openingsites and page.openingsites.size > 0 %}
         <div class="subtitle">
           {% if page.openingsitestitle %}
           {{ page.openingsitestitle }}:
