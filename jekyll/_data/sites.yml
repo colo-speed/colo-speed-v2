@@ -15,11 +15,11 @@ sites:
   - name: Kettering General Hospital
   - name: James Cook University Hospital
   - name: Royal Bolton Hospital
-  - name: University Hospitals of Morecambe Bay
-  - name: Gloucestershire Royal Hospital
-  - name: Lancashire Teaching Hospitals
-  - name: Mid Cheshire Hospitals
-  - name: Blackpool Teaching Hospitals
+  - name: University Hospitals of Morecambe Bay Hospitals NHS Trust
+  - name: "Gloucestershire Royal Hospital NHS Foundation Trust  "
+  - name: Lancashire Teaching Hospitals NHS Foundation Trust
+  - name: " Mid Cheshire Hospitals NHS Foundation Trust"
+  - name: Blackpool Teaching Hospitals NHS Foundation Trust
   - name: The Newcastle-upon-Tyne NHS Foundation Trust
   - name: The Royal Wolverhampton NHS Trust
   - name: King’s College Hospital NHS Foundation Trust
@@ -27,7 +27,6 @@ sites:
   - name: John Radcliffe Hospital, Oxford University NHS Foundation Trust
   - name: Liverpool University Hospitals NHS Foundation Trust
   - name: Pennine Acute Hospitals NHS Trust
-  - name: Morecombe Bay Hospitals NHS Trust
   - name: Royal Wolverhampton NHS Trust
   - name: London North West University Healthcare NHS Trust
   - name: Frimley Health NHS Foundation Trust
