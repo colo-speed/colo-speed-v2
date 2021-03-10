@@ -35,6 +35,7 @@ openingsites:
   - The Royal Wolverhampton NHS Trust
   - Frimley Health NHS Foundation Trust
   - London North West University Healthcare NHS Trust
+  - University Hospitals of Morecambe Bay NHS Foundation Trust
 openingsitestitle: Opening sites
 shortoverview: COLO-COHORT aims to develop a “risk stratification tool” to help
   determine which patients are at highest risk of having polyps or cancer; this
