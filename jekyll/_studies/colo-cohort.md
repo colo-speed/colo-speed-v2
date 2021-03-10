@@ -30,7 +30,11 @@ openedsites:
   - Northumbria Healthcare NHS Foundation Trust
   - Gloucestershire Hospitals NHS Foundation Trust
   - Hull University Teaching Hospitals NHS Foundation Trust
-openingsites: []
+openingsites:
+  - Pennine Acute Hospitals NHS Trust
+  - The Royal Wolverhampton NHS Trust
+  - Frimley Health NHS Foundation Trust
+  - London North West University Healthcare NHS Trust
 openingsitestitle: Opening sites
 shortoverview: COLO-COHORT aims to develop a “risk stratification tool” to help
   determine which patients are at highest risk of having polyps or cancer; this
