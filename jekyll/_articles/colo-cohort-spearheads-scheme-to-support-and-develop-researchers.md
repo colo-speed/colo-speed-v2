@@ -16,7 +16,7 @@ COLO-COHORT, a COLO-SPEED study, is committed to supporting and developing resea
 
 The scheme, which aims to develop junior doctors, nurses and allied health professionals to become the PIs of the future, provides formal recognition of a trainee's engagement in NIHR Portfolio research studies through the conferment of Associate PI status. 
 
-COLO-COHORT is the top Gastroenterology study, having already enrolled Associate PIs at four of its sites. Feedback from those participating in the scheme has been very positive. 
+COLO-COHORT is the top Gastroenterology study, having already enrolled Associate PIs at four of its sites, including Northumbria Healthcare NHS Foundation Trust, North Tees and Hartlepool NHS Foundation Trust, West Hertfordshire Hospitals NHS Trust and Hull University Teaching Hospitals NHS Trust. Feedback from those participating in the scheme has been very positive. 
 
 Fraser Brown, Associate PI for COLO-COHORT at Northumbria Healthcare NHS Foundation Trust, has recently joined the scheme and describes his reasons for doing so:
 
