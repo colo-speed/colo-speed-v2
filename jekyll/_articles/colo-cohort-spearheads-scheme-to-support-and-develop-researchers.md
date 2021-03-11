@@ -24,9 +24,9 @@ Fraser Brown, Associate PI for COLO-COHORT at Northumbria Healthcare NHS Foundat
 
 Fraser also found signing up to the scheme to be very easy. “It's very simple and straightforward to sign up to the scheme,” he adds, “and I have already had contact with the local team. I am looking forward to being involved in the COLO-COHORT project!”
 
-![Test](/assets/images/uploads/api-collage.jpg)
+![](/assets/images/uploads/api-collage.jpg)
 
-*From left to right: Dr Fraser Brown, Dr David Beaton, and Professor Mark Hull*
+*From left to right: Dr Fraser Brown, Dr David Beaton and Professor Mark Hull*
 
 David Beaton, the Associate PI for COLO-COHORT at North Tees and Hartlepool NHS Foundation Trust, has been part of the scheme since late last year and describes the benefits he has experienced so far:
 
