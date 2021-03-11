@@ -3,7 +3,7 @@ layout: article
 title: COLO-COHORT spearheads scheme to support and develop researchers
 author: Nathania Bestwick
 date: 2021-03-11T07:38:32.593Z
-image: /assets/images/uploads/api2.jpg
+image: /assets/images/uploads/api.jpg
 featured: false
 type: news
 audience: everyone
