@@ -3,7 +3,7 @@ layout: article
 title: COLO-COHORT spearheads scheme to support and develop researchers
 author: Nathania Bestwick
 date: 2021-03-11T07:38:32.593Z
-image: /assets/images/uploads/api.jpg
+image: /assets/images/uploads/nihr.png
 featured: false
 type: news
 audience: everyone
@@ -24,7 +24,7 @@ Fraser Brown, Associate PI for COLO-COHORT at Northumbria Healthcare NHS Foundat
 
 Fraser also found signing up to the scheme to be very easy. “It's very simple and straightforward to sign up to the scheme,” he adds, “and I have already had contact with the local team. I am looking forward to being involved in the COLO-COHORT project!”
 
-![](/assets/images/uploads/api-collage.jpg)
+![Test](/assets/images/uploads/api-collage.jpg)
 
 *From left to right: Dr Fraser Brown, Dr David Beaton, and Professor Mark Hull*
 
