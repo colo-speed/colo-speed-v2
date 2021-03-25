@@ -1,6 +1,8 @@
 ---
 layout: article
 title: Patient care award for world-leading endoscopy research
+subtitle: COLO-SPEED wins the 2020 Royal College of Physicians Excellence in
+  Patient Care Award for Research
 date: 2020-07-01T13:31:58.280Z
 tags:
   - award
