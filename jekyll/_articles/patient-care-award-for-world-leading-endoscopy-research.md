@@ -4,7 +4,7 @@ title: Patient care award for world-leading endoscopy research
 date: 2020-07-01T13:31:58.280Z
 tags:
   - ""
-image: /assets/images/uploads/image001.jpg
+image: ""
 featured: true
 type: news
 audience: everyone
