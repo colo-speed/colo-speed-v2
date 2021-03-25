@@ -3,12 +3,14 @@ layout: article
 title: Patient care award for world-leading endoscopy research
 date: 2020-07-01T13:31:58.280Z
 tags:
-  - ""
+  - award
 image: ""
 featured: true
 type: news
 audience: everyone
-externallinks: []
+externallinks:
+  - link: https://www.rcplondon.ac.uk/news/rcp-excellence-patient-care-awards-2020-winners-have-been-announced
+    title: RCP Excellence in Patient Care Award Winners
 study: colo-cohort
 ---
 The COLO-SPEED (Colorectal Cancer Screening, Prevention, Endoscopy and Early Diagnosis) team recently won a prestigious patient care award for its world-leading endoscopy research.\
