@@ -4,7 +4,7 @@ title: Bowel Cancer Screening Programme data linkage for STOP-ADENOMA
 author: ""
 date: 2021-03-29T08:34:19.015Z
 featured: false
-type: news
+type: article
 audience: everyone
 externallinks:
   - link: https://colospeed.uk/assets/documents/STOP-ADENOMA_PrivacyNotice.pdf
