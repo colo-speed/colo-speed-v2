@@ -3,7 +3,7 @@ layout: study
 title: COLO-DETECT
 subtitle: A Randomised Controlled Trial of Lesion Detection at Colonoscopy Using
   the GI Genius™ Artificial Intelligence Platform
-date: 2020-09-10T08:49:47.461Z
+date: 2020-10-10T08:49:00.000Z
 featured: false
 image: /assets/images/uploads/colodetect-gi-genius.png
 status: Recruitment active
@@ -24,7 +24,6 @@ researchers:
   - Dr James Hampton
 openedsites:
   - South Tyneside and Sunderland NHS Foundation Trust
-  - Bolton NHS Foundation Trust
 openingsitestitle: Sites to be opened
 shortoverview: "COLO-DETECT is a randomised control trial that will evaluate
   whether colonoscopy assisted with the GI Genius™ Intelligent Endoscopy Module
