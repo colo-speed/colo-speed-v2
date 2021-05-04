@@ -6,7 +6,7 @@ subtitle: A Randomised Controlled Trial of Lesion Detection at Colonoscopy Using
 date: 2020-09-10T08:49:47.461Z
 featured: false
 image: /assets/images/uploads/colodetect-gi-genius.png
-status: In set up
+status: Recruitment active
 sponsor: South Tyneside and Sunderland NHS Foundation Trust
 funder: Medtronic
 contactperson:
@@ -22,6 +22,9 @@ researchers:
   - Dr Andrew Brand
   - Mr Alexander Seager
   - Dr James Hampton
+openedsites:
+  - South Tyneside and Sunderland NHS Foundation Trust
+  - Bolton NHS Foundation Trust
 openingsitestitle: Sites to be opened
 shortoverview: "COLO-DETECT is a randomised control trial that will evaluate
   whether colonoscopy assisted with the GI Genius™ Intelligent Endoscopy Module
