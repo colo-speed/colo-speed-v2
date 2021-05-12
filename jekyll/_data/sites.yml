@@ -31,3 +31,8 @@ sites:
   - name: Liverpool University Hospitals NHS Foundation Trust
   - name: Frimley Health NHS Foundation Trust
   - name: Durham and Darlington NHS Foundation Trust
+  - name: Surrey and Sussex Healthcare NHS Trust
+  - name: Sheffield Teaching Hospitals NHS Foundation Trust
+  - name: Leeds Teaching Hospitals NHS Foundation Trust
+  - name: Manchester University NHS Foundation Trust
+  - name: Salford Royal NHS Foundation Trust
