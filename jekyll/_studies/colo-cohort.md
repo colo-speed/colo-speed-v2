@@ -36,6 +36,12 @@ openingsites:
   - Frimley Health NHS Foundation Trust
   - London North West University Healthcare NHS Trust
   - University Hospitals of Morecambe Bay NHS Foundation Trust
+  - Durham and Darlington NHS Foundation Trust
+  - Surrey and Sussex Healthcare NHS Trust
+  - Leeds Teaching Hospitals NHS Foundation Trust
+  - Manchester University NHS Foundation Trust
+  - Salford Royal NHS Foundation Trust
+  - Sheffield Teaching Hospitals NHS Foundation Trust
 openingsitestitle: Opening sites
 shortoverview: COLO-COHORT aims to develop a “risk stratification tool” to help
   determine which patients are at highest risk of having polyps or cancer; this
