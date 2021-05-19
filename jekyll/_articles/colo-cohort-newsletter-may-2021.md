@@ -2,7 +2,7 @@
 layout: article
 title: COLO-COHORT Newsletter - May 2021
 date: 2021-05-19T12:56:48.109Z
-image: /assets/images/uploads/colo-cohort-newsletter-may-2021.jpg
+image: /assets/images/uploads/colo-cohort-newsletter-may-2021-v2.jpg
 featured: false
 type: news
 audience: researchers
