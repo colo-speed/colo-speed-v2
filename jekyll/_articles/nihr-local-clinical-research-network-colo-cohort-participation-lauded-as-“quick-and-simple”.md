@@ -4,7 +4,7 @@ title: "NIHR Local Clinical Research Network: COLO-COHORT participation lauded
   as “quick and simple”"
 author: Nathania Bestwick
 date: 2021-05-24T11:46:41.767Z
-image: /assets/images/uploads/jennifer-smith-pic.png
+image: /assets/images/uploads/jennifer-smith-pic-v3-01.png
 featured: false
 type: news
 audience: everyone
