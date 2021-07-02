@@ -24,6 +24,7 @@ researchers:
   - Dr James Hampton
 openedsites:
   - South Tyneside and Sunderland NHS Foundation Trust
+  - Kettering General Hospital NHS Foundation Trust
 openingsitestitle: Sites to be opened
 shortoverview: "COLO-DETECT is a randomised control trial that will evaluate
   whether colonoscopy assisted with the GI Genius™ Intelligent Endoscopy Module
