@@ -63,6 +63,18 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  position: relative;
+  overflow: hidden;
+}
+
+#main-content .section-1 .contact-us .left-col .image-content {
+  top: 0;
+  /* right: 0; */
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 100%;
+  width: auto;
 }
 
 #main-content .section-1 .contact-us .right-col {

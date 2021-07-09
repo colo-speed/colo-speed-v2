@@ -43,7 +43,8 @@
           {% for study in studies %}
           <div class="study" onclick="window.location='{{study.url}}'">
             <div class="image-container">
-              <div class="study-image left-col col" style="background-image: url('{{ study.image }}'); cursor: pointer; /*padding: 0; min-width: 340px*/" onclick="window.location='{{study.url}}'">
+              <div class="study-image left-col col" style="cursor: pointer; /*padding: 0; min-width: 340px*/" onclick="window.location='{{study.url}}'">
+                <img src="{{ study.image }}" class="image-content"/>
               </div>
             </div>
             <div class="right-col col">

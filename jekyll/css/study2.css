@@ -231,6 +231,7 @@
   width: 100%;
   padding-bottom: 55.56%; /* 16:9 */
   position: relative;
+  overflow: hidden;
 }
 
 /* #main-content .section-1 .studies .main-col .study .left-col {

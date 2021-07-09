@@ -159,6 +159,17 @@
     /* padding-bottom: 56.25%;  */
     padding-bottom: 46.25%; /* 16:9 */
     position: relative;
+    overflow: hidden;
+  }
+
+  #main-content .section-1 .news-media .main-col .article .left-col .image-content {
+    right: 0;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 0;
+    height: 100%;
+    width: auto;
   }
   
   #main-content .section-1 .news-media .main-col .article .right-col {

@@ -44,7 +44,8 @@
           <div class="article" onclick="window.location='{{article.url}}'">
             {% if article.image != nil and article.image != "" %}
             <div class="image-container">
-              <div class="study-image left-col col" style="background-image: url('{{ article.image }}'); cursor: pointer; /*padding: 0; min-width: 340px*/" onclick="window.location='{{article.url}}'">
+              <div class="study-image left-col col" style=" cursor: pointer; /*padding: 0; min-width: 340px*/" onclick="window.location='{{article.url}}'">
+                <img src="{{ article.image }}" class="image-content"/>
               </div>
             </div>
             {% endif %}

@@ -51,17 +51,17 @@
   background-color: var(--primary-color);
 }
 
-#main-content .section-1 .video-1 {
+#main-content .section-1 .landing-image-container {
   position: relative;
   width: 100%;
 }
 
-#main-content .section-1 .video-1 .video-image {
+#main-content .section-1 .landing-image-container .landing-image {
   /* background-image: url("/assets/images/overview/v1@2x.jpg"); */
-  background-image: url('/assets/images/uploads/colo-cohort-large.JPG');
+  /* background-image: url('/assets/images/uploads/colo-cohort-large.JPG'); */
   background-size: cover;
   width: 100%;
-  height: 90vh;
+  max-height: 90vh;
   display: block;
   background-repeat: no-repeat;
   background-position: center center;
@@ -267,13 +267,23 @@
   width: fit-content;
 }
 
-#main-content .section-3 .featured-articles .video-2 {
-  background-image: url("/assets/images/overview/v2.jpg");
+#main-content .section-3 .featured-articles .featured-image {
+  /* background-image: url("/assets/images/overview/v2.jpg"); */
   /* height: 100%; */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   position: relative;
+  overflow: hidden;
+}
+
+#main-content .section-3 .featured-articles .featured-image .image-content {
+  left: 0;
+  right: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
 }
 
 #main-content .section-3 .featured-articles .video-2 .video-play-btn {
@@ -419,6 +429,7 @@
   padding-bottom: 55.56%; /* 16:9 */
   /* padding-bottom: 22.25%; */
   position: relative;
+  overflow: hidden;
 }
 
 #main-content .section-4 .latest-studies .study-title a{

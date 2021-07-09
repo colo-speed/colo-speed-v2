@@ -59,6 +59,18 @@
     min-height: 0;
     padding: 0;
     padding-bottom: 51%;
+    position: relative;
+    overflow: hidden;
+  }
+
+  #main-content .section-1 .study .right-col .image-content {
+    left: 0;
+    right: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    height: auto;
   }
 
   #main-content .section-1 .study .title {

@@ -38,7 +38,8 @@
 
           <div class="article">
             {% if article.image != nil and article.image != "" %}
-            <div class="left-col col" style="background-image: url('{{ article.image }}');">
+            <div class="left-col col">
+              <img src="{{ article.image }}" class="image-content"/>
             </div>
             {% endif %}
 
@@ -130,7 +131,9 @@
                     {% for study in site.studies %}
                       {% if study.slug == article.study %}
                       <div class="related-study" onclick="window.location='{{study.url}}'">
-                        <div class="feature-image" style="background-image: url('{{ study.image }}');"></div>
+                        <div class="feature-image">
+                          <img src="{{ study.image }}" class="image-content"/>
+                        </div>
                         <div class="card-content">
                           <div class="card-title">
                             <a href="{{study.url}}" alt="{{study.url}}">{{ study.title }}</a>

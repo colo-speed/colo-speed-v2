@@ -21,6 +21,7 @@
   left: 0;
   margin-bottom: 50px;
   padding: 0px 10vw 0px 10vw;
+  z-index: 100;
 }
 
 #main-content .section-1 .main-title {
@@ -43,15 +44,27 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  position: relative;
+  overflow: hidden;
 }
 
-#main-content .section-1 .right-col {
+#main-content .right-col .image-content {
+  left: 50%;
+  /* right: 0; */
+  position: absolute;
+  top: 0;
+  transform: translateX(-50%);
+  height: 100%;
+  width: auto;
+}
+
+/* #main-content .section-1 .right-col {
   background-image: url("/assets/images/studies/p1.jpg");
-}
+} */
 
-#main-content .section-2 .right-col {
+/* #main-content .section-2 .right-col {
   background-image: url("/assets/images/overview/research_delivery_team.jpg");
-}
+} */
 
 #main-content .section-1 .left-col,
 #main-content .section-2 .left-col {
@@ -127,6 +140,17 @@
   background-repeat: no-repeat;
   background-position: center center;
   min-height: 300px;
+  position: relative;
+  overflow: hidden;
+}
+
+#main-content .section-2 .main-col .member .image .image-content {
+  left: 0;
+  right: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
 }
 
 #main-content .section-2 .main-col .member .member-info {

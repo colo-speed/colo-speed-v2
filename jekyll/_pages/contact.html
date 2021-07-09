@@ -8,11 +8,14 @@ layout: page
   <div class="title">Our Address</div>
   {{ site.data.contactdetails.address | markdownify | newline_to_br }}
   <p>
+    <a href="{{site.data.contactdetails.maplocation}}" target="blank">Map and Directions (opens in Google Maps)</a>
+  </p>
+  <p>
     Email: <a href="mailto:{{site.data.contactdetails.email}}" target="_blank">{{site.data.contactdetails.email}}</a>
   </p>
-  <iframe width="300" height="450"
+  <!-- <iframe width="300" height="450"
     src="{{site.data.contactdetails.maplocation}}"
-    allowfullscreen></iframe>
+    allowfullscreen></iframe> -->
 </div>
 <div class="right-col">
   <div class="title">Get in Touch</div>
