@@ -31,13 +31,13 @@ openedsites:
   - Gloucestershire Hospitals NHS Foundation Trust
   - Hull University Teaching Hospitals NHS Foundation Trust
   - Durham and Darlington NHS Foundation Trust
+  - Surrey and Sussex Healthcare NHS Trust
 openingsites:
   - Pennine Acute Hospitals NHS Trust
   - The Royal Wolverhampton NHS Trust
   - Frimley Health NHS Foundation Trust
   - London North West University Healthcare NHS Trust
   - University Hospitals of Morecambe Bay NHS Foundation Trust
-  - Surrey and Sussex Healthcare NHS Trust
   - Leeds Teaching Hospitals NHS Foundation Trust
   - Manchester University NHS Foundation Trust
   - Salford Royal NHS Foundation Trust
